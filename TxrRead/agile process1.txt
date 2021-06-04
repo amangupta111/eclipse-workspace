@@ -1,0 +1,27 @@
+Process	 	 
+Starts with consumer subscribe for program
+Address and CC info captured in Magento
+Magento - Online platform
+Avatax - Add on tool in Magento, calculate tax 
+Information process, certificate granted
+Magento to DHL via Channel Advisor
+Order Data from magento to DHL
+DHL - UPS 
+DHL submit UPS the pick up data
+DHL will return Tracking link received from UPS
+Tracking info is passed back to Magento where consumer can track order
+DHL to Magento
+DHL dispatch confirmation to magento 
+CC will be charged
+DHL - Beam Suntory
+DHL will sent consolidated info to BS
+Sales orders will be processed in SAP
+DHL - SAP	 
+DHL send info for picking up/packages to Beam
+Data is process in SAP
+Invoice in SAP to the State reprentative customer
+Alvara generate a tax reports to be uploaded to SAP
+Monthly posting adjustment price adjustment
+Product received by customer
+Order Status review
+
